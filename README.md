@@ -1,3 +1,4 @@
+# MNIST Digit Classifier
 
 ## Overview
 The MNIST data files train.csv and test.csv files which are already splitted up containing gray-scale images of hand-drawn digits, from zero through nine.
